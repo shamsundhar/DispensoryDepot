@@ -1,0 +1,6 @@
+module Pods_DispensaryDepot {
+  umbrella header "Pods-DispensaryDepot-umbrella.h"
+
+  export *
+  module * { export * }
+}
